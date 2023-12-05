@@ -16,7 +16,7 @@ Python Executer
 ### Installing
 
 
-Download from my github link where all the source code files are.
+Download from my github link where all the source code files are
 
 ### Executing program
 
