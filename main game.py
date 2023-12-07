@@ -1,5 +1,5 @@
 # This file was created by: Alex Aguerria
-# Sources:
+# Sources: 
 '''
 https://youtu.be/nF_crEtmpBo?si=jz-qfuisnQHB_mM3
 '''
@@ -22,6 +22,6 @@ while True:
             pygame.quit()
             
     pygame.display.update()
-    clock.tick(60)
+    clock.tick(30)
 
 
