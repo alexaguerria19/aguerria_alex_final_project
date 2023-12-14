@@ -43,7 +43,7 @@ while True:
 				game.move_right()
 			if event.key == pygame.K_s and game.game_over == False:
 				game.move_down()
-				game.update_score(0, 1)
+				game.update_score(0, 1) # updates the score when the down key is pressed
 			if event.key == pygame.K_w and game.game_over == False:
 				game.rotate()
 		if event.type == GAME_UPDATE and game.game_over == False:
@@ -52,7 +52,7 @@ while True:
 	#Drawing
 	score_value_surface = title_font.render(str(game.score), True, Colors.white)
 
-# Sets the colors of the textd
+# Sets the colors of the text
 	screen.fill(Colors.dark_blue)
 	screen.blit(score_surface, (365, 20, 50, 50))
 	screen.blit(next_surface, (375, 180, 50, 50))

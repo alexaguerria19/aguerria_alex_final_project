@@ -1,4 +1,4 @@
-# defines the color values
+# defines the color values using rgb
 class Colors:
 	dark_grey = (26, 31, 40)
 	green = (47, 230, 23)

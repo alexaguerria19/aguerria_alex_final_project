@@ -13,6 +13,7 @@ class LBlock(Block):
 			2: [Position(1, 0), Position(1, 1), Position(1, 2), Position(2, 0)],
 			3: [Position(0, 0), Position(0, 1), Position(1, 1), Position(2, 1)]
 		}
+        # moves the block to the center of the screen
 		self.move(0, 3)
 
 class JBlock(Block):
