@@ -1,3 +1,5 @@
+# This file was created by: Alex Aguerria
+
 # pulls from the other files
 import pygame,sys
 from game import Game

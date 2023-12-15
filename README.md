@@ -1,11 +1,10 @@
 # Fall2023_final_project
 
-Tetris Game with Colors
+Tetris Game with new blocks
 
 ## Description
 
-Tetris Game with a little bit of a twist. The same rules as before but now you can clear areas by matching all the same colors to the areas around it. 
-
+Tetris Game with a little bit of a twist. The same rules as before but now theres more pieces to use while completing a row
 ## Getting Started
 
 ### Dependencies
@@ -21,8 +20,9 @@ Download from my github link where all the source code files are.
 ### Executing program
 
 - Click run python file
-- Screen will pop up and then click start game
+- Screen will pop up and the game will start
 - Game will start playing 
+- Once you lose press any key to restart
 - Click the X on the top of the screen to close game
 
 ## Help
